@@ -1,0 +1,14 @@
+C:\repos\CarExercise\CarExercise\bin\Debug\net8.0\CarExercise.exe
+C:\repos\CarExercise\CarExercise\bin\Debug\net8.0\CarExercise.deps.json
+C:\repos\CarExercise\CarExercise\bin\Debug\net8.0\CarExercise.runtimeconfig.json
+C:\repos\CarExercise\CarExercise\bin\Debug\net8.0\CarExercise.dll
+C:\repos\CarExercise\CarExercise\bin\Debug\net8.0\CarExercise.pdb
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\CarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\CarExercise.AssemblyInfoInputs.cache
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\CarExercise.AssemblyInfo.cs
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\CarExercise.csproj.CoreCompileInputs.cache
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\CarExercise.dll
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\refint\CarExercise.dll
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\CarExercise.pdb
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\CarExercise.genruntimeconfig.cache
+C:\repos\CarExercise\CarExercise\obj\Debug\net8.0\ref\CarExercise.dll
